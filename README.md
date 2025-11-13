@@ -34,5 +34,7 @@ The tax is calculated progressively across slabs.
 🧩 Technologies Used
 
 HTML – Structure
+
 CSS – Styling
+
 JavaScript – Tax calculation logic
